@@ -1,0 +1,106 @@
+.backgound{
+    background-color: #1a2f30;
+    //margin-bottom: 90px;
+}
+.text01{
+    color: #F7F7F8;
+    text-align: right;
+    font-family: Cairo;
+    padding-right: 40px;
+    display: inline;
+}
+.text02{
+    color: #F7F7F8;
+    text-align: right;
+    padding-right: 70px;
+    font-family: cairo-light;
+
+}
+
+.background-bar{
+    height: -webkit-fill-available;
+    width: 550px;
+    display: inline-block;
+    background-color: white;
+    top: 0px;
+    position: absolute;
+    left: 0px;
+    z-index: -1;
+}
+.text03{
+    text-align: left;
+    font-family: Cairo;
+    display: block;
+    margin-left: 290px;
+    font-size: 35px;
+    position: relative;
+    bottom: 65px;
+
+}
+.text04{
+    text-align: left;
+    font-family: cairo-light;
+    display: block;
+    margin-left: 260px;
+    font-size: 20px;
+    position: relative;
+    //bottom: 35px;
+    bottom: 100px;
+
+
+}
+.text05{
+    text-align: left;
+    font-family: Cairo;
+    display: block;
+    margin-left: 355px;
+    font-size: 15px;
+    position: relative;
+    //bottom: 20px;
+    bottom: 80px;
+}
+.text06{
+    text-align: left;
+    font-family: Cairo;
+    display: block;
+    margin-left: 390px;
+    font-size: 15px;
+    position: relative;
+//bottom: 20px;
+    bottom: 80px;
+
+}
+.text07{
+    text-align: left;
+    font-family: Cairo;
+    display: block;
+    margin-left: 386px;
+    font-size: 15px;
+    position: relative;
+//bottom: 20px;
+    bottom: 80px;
+
+}
+.background-input{
+    background: rgba(73, 73, 73, 0.1);
+    border-radius: 50px;
+    border: 0px black;
+    width: 250px;
+    height: 30px;
+    position: relative;
+    //bottom: 20px;
+    margin-right: 793px;
+    font-family: cairo;
+    font-size: 20px;
+    padding: 2px 5px;
+    color: #1a2f30;
+    bottom: 90px;
+}
+.checkbox{
+    display: inline-block;
+
+    -webkit-appearance: none;
+    appearance: none;
+}
+}
+
